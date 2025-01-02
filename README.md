@@ -12,7 +12,6 @@
 ## Requirements
 
 - Python 3.12
-- re
   
 ## Setup
 
